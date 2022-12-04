@@ -1,12 +1,12 @@
 # **INTRODUCTION TO DEVOPS, OPERATING SYSTEMS AND LINUX OS, VERSION CONTROL WITH GIT.**
 
-*This markdown file contains a review of concepts learnt on the Devops with Nana Course, extra resources used will be refrenced and it may or may not be an exact representation of the course.*
+*This markdown file contains a review of concepts learnt on the Devops with Nana Course, extra resources used will be referenced and it may or may not be an exact representation of the course.*
 
 *This file will contain a brief summary of the topics listed above.*
 
 ## **Introduction to DevOps.**
 
-Basically from all introduction to DevOps 
+Basically from all the introduction to DevOps 
 tutorials i have watched, DevOps was adopted to help reduce the time of product delivery to market. 
 
 __"DevOps combines development and operations to increase the efficiency, speed, and security of software development and delivery compared to traditional processes."__ - GitLab.
